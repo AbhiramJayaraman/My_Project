@@ -1,0 +1,29 @@
+# Core YOLOv8 and deep learning dependencies
+ultralytics>=8.0.0
+torch>=1.12.0
+
+# Data manipulation and analysis
+pandas>=1.3.0
+
+# Visualization and plotting
+matplotlib>=3.4.0
+
+# Note: The following dependencies are automatically installed with ultralytics:
+# - opencv-python
+# - numpy
+# - pillow
+# - pyyaml
+# - requests
+# - tqdm
+# - torchvision (when torch is installed)
+
+# Optional: Additional utilities (uncomment if needed)
+# seaborn>=0.11.0
+# scipy>=1.7.0
+# psutil>=5.8.0
+
+# Optional: Development and experimentation tools (uncomment if needed)
+# jupyter>=1.0.0
+# ipywidgets>=7.6.0
+# wandb>=0.12.0
+# tensorboard>=2.7.0

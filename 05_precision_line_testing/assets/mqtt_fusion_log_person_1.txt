@@ -1,0 +1,353 @@
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:45.255
+Topic: devices/mocas/rpi2
+Raw tracks: 1
+================================================================================
+Track 1: {'label': 'AGV (0.82 ID: 1)', 'confidence': 0.81640625, 'position': [698.9533550666523, 313.444229126608], 'avg_colour': [101.59, 102.93, 97.05], 'used_pose': False, 'timestamp': 1752831282.9713237}
+
+No fused tracks generated - publishing empty state to devices/mocas/fused_tracks
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:46.189
+Topic: devices/mocas/rpi2
+Raw tracks: 1
+================================================================================
+Track 1: {'label': 'AGV (0.62 ID: 1)', 'confidence': 0.62109375, 'position': [695.8233430265781, 301.0238447239386], 'avg_colour': [81.71, 94.04, 121.58], 'used_pose': False, 'timestamp': 1752831283.9991918}
+
+FUSED TRACKS (2) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:46.189
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.88 ID: 31)', 'position': [738.6371943256911, 332.0699547851913], 'avg_colour': [125, 110, 91], 'confidence': 0.87890625, 'timestamp': 1752831286.185007, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.62 ID: 1)', 'position': [695.8233430265781, 301.0238447239386], 'avg_colour': [121, 94, 81], 'confidence': 0.62109375, 'timestamp': 1752831286.185007, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:47.162
+Topic: devices/mocas/rpi2
+Raw tracks: 1
+================================================================================
+Track 1: {'label': 'AGV (0.73 ID: 1)', 'confidence': 0.73046875, 'position': [690.0361139038289, 282.61292942667734], 'avg_colour': [54.86, 82.85, 158.62], 'used_pose': False, 'timestamp': 1752831284.967899}
+
+FUSED TRACKS (2) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:47.162
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.82 ID: 31)', 'position': [740.4569289199528, 314.7083602057778], 'avg_colour': [141, 104, 82], 'confidence': 0.81640625, 'timestamp': 1752831287.15039, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.73 ID: 1)', 'position': [690.7430350487805, 284.8618580668768], 'avg_colour': [158, 82, 54], 'confidence': 0.73046875, 'timestamp': 1752831287.15039, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:48.252
+Topic: devices/mocas/rpi2
+Raw tracks: 1
+================================================================================
+Track 1: {'label': 'AGV (0.88 ID: 1)', 'confidence': 0.87890625, 'position': [689.9339561774549, 264.4827706503213], 'avg_colour': [58.91, 85.82, 158.33], 'used_pose': False, 'timestamp': 1752831285.9653637}
+
+FUSED TRACKS (2) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:48.252
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.82 ID: 31)', 'position': [742.5480172140132, 294.75785351886464], 'avg_colour': [95, 74, 66], 'confidence': 0.81640625, 'timestamp': 1752831288.223431, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.88 ID: 1)', 'position': [689.2217963987596, 266.1217659346638], 'avg_colour': [158, 85, 58], 'confidence': 0.87890625, 'timestamp': 1752831288.232123, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:49.177
+Topic: devices/mocas/rpi2
+Raw tracks: 3
+================================================================================
+Track 1: {'label': 'AGV (0.82 ID: 1)', 'confidence': 0.81640625, 'position': [687.2991977117365, 240.13709782917869], 'avg_colour': [65.45, 85.59, 139.29], 'used_pose': False, 'timestamp': 1752831286.9756956}
+Track 3: {'label': 'person (0.73 ID: 3)', 'confidence': 0.73046875, 'position': [576.2028685703104, 57.628440810721294], 'avg_colour': [169.87777777777777, 175.36666666666667, 171.3], 'used_pose': False, 'timestamp': 1752831286.7555299}
+Track 4: {'label': 'person (0.73 ID: 4)', 'confidence': 0.73046875, 'position': [556.0085179923165, 64.80067114356619], 'avg_colour': [170.03, 177.49, 174.09], 'used_pose': False, 'timestamp': 1752831286.9776573}
+
+FUSED TRACKS (2) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:49.177
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.73 ID: 31)', 'position': [750.0236536076739, 276.2662258878395], 'avg_colour': [105, 150, 61], 'confidence': 0.73046875, 'timestamp': 1752831289.163011, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.82 ID: 1)', 'position': [687.0611994515313, 243.32174547004172], 'avg_colour': [139, 85, 65], 'confidence': 0.81640625, 'timestamp': 1752831289.163011, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:50.193
+Topic: devices/mocas/rpi2
+Raw tracks: 2
+================================================================================
+Track 1: {'label': 'AGV (0.73 ID: 1)', 'confidence': 0.73046875, 'position': [691.4769426078358, 241.22050626498307], 'avg_colour': [69.25, 86.51, 135.08], 'used_pose': False, 'timestamp': 1752831287.4229803}
+Track 4: {'label': 'person (0.73 ID: 4)', 'confidence': 0.73046875, 'position': [479.79184890887484, 95.84379200745434], 'avg_colour': [19.72, 18.62, 92.2], 'used_pose': True, 'timestamp': 1752831287.9888387}
+
+FUSED TRACKS (4) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:50.193
+GLOBAL_003: {'global_id': 'GLOBAL_003', 'label': 'person (0.88 ID: 34)', 'position': [704.3787676696755, -168.7502069260092], 'avg_colour': [195, 200, 209], 'confidence': 0.87890625, 'timestamp': 1752831290.182304, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '34')], 'num_sources': 1}
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.82 ID: 31)', 'position': [753.5824925677828, 249.7650998077317], 'avg_colour': [69, 58, 55], 'confidence': 0.81640625, 'timestamp': 1752831290.182304, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.73 ID: 1)', 'position': [688.6970533428125, 234.43025061795842], 'avg_colour': [135, 86, 69], 'confidence': 0.73046875, 'timestamp': 1752831290.182304, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+GLOBAL_004: {'global_id': 'GLOBAL_004', 'label': 'person (0.73 ID: 4)', 'position': [479.79184890887484, 95.84379200745434], 'avg_colour': [92, 18, 19], 'confidence': 0.73046875, 'timestamp': 1752831290.182304, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '4')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:51.154
+Topic: devices/mocas/rpi2
+Raw tracks: 2
+================================================================================
+Track 4: {'label': 'person (0.73 ID: 4)', 'confidence': 0.73046875, 'position': [392.1838793987998, 113.13733564560127], 'avg_colour': [22.34, 9.48, 134.8], 'used_pose': False, 'timestamp': 1752831288.966418}
+Track 1: {'label': 'AGV (0.82 ID: 1)', 'confidence': 0.81640625, 'position': [685.6765990078679, 228.97273984465036], 'avg_colour': [47.33, 79.48, 165.68], 'used_pose': False, 'timestamp': 1752831288.9684646}
+
+FUSED TRACKS (4) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:51.154
+GLOBAL_003: {'global_id': 'GLOBAL_003', 'label': 'person (0.73 ID: 34)', 'position': [706.8520830664183, -151.74716950015562], 'avg_colour': [153, 161, 152], 'confidence': 0.73046875, 'timestamp': 1752831291.137012, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '34')], 'num_sources': 1}
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.88 ID: 31)', 'position': [757.7054597458854, 226.6098661180611], 'avg_colour': [72, 62, 60], 'confidence': 0.87890625, 'timestamp': 1752831291.137012, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_004: {'global_id': 'GLOBAL_004', 'label': 'person (0.73 ID: 4)', 'position': [402.8853610231401, 111.02489609816863], 'avg_colour': [134, 9, 22], 'confidence': 0.73046875, 'timestamp': 1752831291.137012, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '4')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.82 ID: 1)', 'position': [686.578812734819, 224.29112220938978], 'avg_colour': [165, 79, 47], 'confidence': 0.81640625, 'timestamp': 1752831291.137012, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:52.242
+Topic: devices/mocas/rpi2
+Raw tracks: 2
+================================================================================
+Track 4: {'label': 'person (0.73 ID: 4)', 'confidence': 0.73046875, 'position': [362.12448354564293, 121.27261083215046], 'avg_colour': [24.45, 11.71, 122.36], 'used_pose': False, 'timestamp': 1752831289.9690146}
+Track 1: {'label': 'AGV (0.82 ID: 1)', 'confidence': 0.81640625, 'position': [684.8672087643178, 229.14882076701784], 'avg_colour': [45.36, 75.96, 159.48], 'used_pose': False, 'timestamp': 1752831289.9711137}
+
+FUSED TRACKS (3) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:52.242
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.82 ID: 31)', 'position': [760.1969088212938, 212.97078802404005], 'avg_colour': [70, 62, 59], 'confidence': 0.81640625, 'timestamp': 1752831292.231278, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_004: {'global_id': 'GLOBAL_004', 'label': 'person (0.73 ID: 4)', 'position': [357.5964484073937, 121.68362099938271], 'avg_colour': [122, 11, 24], 'confidence': 0.73046875, 'timestamp': 1752831292.231666, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '4')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.82 ID: 1)', 'position': [685.0341565955056, 219.598822741215], 'avg_colour': [159, 75, 45], 'confidence': 0.81640625, 'timestamp': 1752831292.231666, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:53.163
+Topic: devices/mocas/rpi2
+Raw tracks: 2
+================================================================================
+Track 4: {'label': 'person (0.73 ID: 4)', 'confidence': 0.73046875, 'position': [362.3945022554515, 123.41650189090456], 'avg_colour': [24.44, 9.84, 131.47], 'used_pose': False, 'timestamp': 1752831290.9247038}
+Track 1: {'label': 'AGV (0.82 ID: 1)', 'confidence': 0.81640625, 'position': [684.8672087643178, 229.14882076701784], 'avg_colour': [44.78, 76.2, 159.42], 'used_pose': False, 'timestamp': 1752831290.926492}
+
+FUSED TRACKS (4) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:53.163
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.88 ID: 31)', 'position': [761.4051098081112, 206.31457590829777], 'avg_colour': [79, 64, 60], 'confidence': 0.87890625, 'timestamp': 1752831293.150237, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_005: {'global_id': 'GLOBAL_005', 'label': 'person (0.38 ID: 37)', 'position': [187.8368783617692, 406.95997342044456], 'avg_colour': [21, 123, 22], 'confidence': 0.37890625, 'timestamp': 1752831293.150237, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '37')], 'num_sources': 1}
+GLOBAL_004: {'global_id': 'GLOBAL_004', 'label': 'person (0.73 ID: 4)', 'position': [343.88823602739126, 126.51010226406098], 'avg_colour': [131, 9, 24], 'confidence': 0.73046875, 'timestamp': 1752831293.150237, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '4')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.82 ID: 1)', 'position': [684.1919315819351, 217.8683708236558], 'avg_colour': [159, 76, 44], 'confidence': 0.81640625, 'timestamp': 1752831293.150237, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:54.306
+Topic: devices/mocas/rpi2
+Raw tracks: 3
+================================================================================
+Track 4: {'label': 'person (0.88 ID: 4)', 'confidence': 0.87890625, 'position': [386.5394744915683, 153.2955558281116], 'avg_colour': [27.61, 13.69, 125.29], 'used_pose': False, 'timestamp': 1752831291.9677727}
+Track 1: {'label': 'AGV (0.82 ID: 1)', 'confidence': 0.81640625, 'position': [684.0581746891604, 229.32482420579848], 'avg_colour': [43.31, 70.2, 146.85], 'used_pose': False, 'timestamp': 1752831291.9698324}
+Track 5: {'label': 'person (0.50 ID: 5)', 'confidence': 0.5, 'position': [364.44953137455565, 126.84686969537886], 'avg_colour': [25.62, 10.47, 139.22], 'used_pose': False, 'timestamp': 1752831291.1588216}
+
+FUSED TRACKS (4) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:54.306
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.88 ID: 31)', 'position': [761.2448216562933, 205.29959848600026], 'avg_colour': [69, 63, 60], 'confidence': 0.87890625, 'timestamp': 1752831294.294048, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_004: {'global_id': 'GLOBAL_004', 'label': 'person (0.50 ID: 41)', 'position': [354.76693848602866, 150.23549949379301], 'avg_colour': [90, 86, 41], 'confidence': 0.689453125, 'timestamp': 1752831294.294048, 'source_rpis': ['rpi1', 'rpi2'], 'source_tracks': [('rpi1', '41'), ('rpi2', '4')], 'num_sources': 2}
+GLOBAL_006: {'global_id': 'GLOBAL_006', 'label': 'person (0.50 ID: 42)', 'position': [481.8199791704247, 54.46925266814797], 'avg_colour': [90, 197, 91], 'confidence': 0.5, 'timestamp': 1752831294.294048, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '42')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.82 ID: 1)', 'position': [683.4241556574892, 217.9838126431596], 'avg_colour': [146, 70, 43], 'confidence': 0.81640625, 'timestamp': 1752831294.294048, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:55.142
+Topic: devices/mocas/rpi2
+Raw tracks: 2
+================================================================================
+Track 4: {'label': 'person (0.88 ID: 4)', 'confidence': 0.87890625, 'position': [386.6638079671513, 158.6135569947504], 'avg_colour': [28.55, 10.99, 153.22], 'used_pose': False, 'timestamp': 1752831292.99892}
+Track 1: {'label': 'AGV (0.88 ID: 1)', 'confidence': 0.87890625, 'position': [681.6788356299331, 226.13531288344856], 'avg_colour': [41.17, 74.06, 167.97], 'used_pose': False, 'timestamp': 1752831292.965755}
+
+FUSED TRACKS (5) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:55.142
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.88 ID: 31)', 'position': [760.5531481195032, 206.33283494035223], 'avg_colour': [64, 61, 58], 'confidence': 0.87890625, 'timestamp': 1752831295.127033, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_004: {'global_id': 'GLOBAL_004', 'label': 'person (0.50 ID: 41)', 'position': [366.6463801383618, 161.15672405952316], 'avg_colour': [62, 168, 65], 'confidence': 0.5, 'timestamp': 1752831295.127033, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '41')], 'num_sources': 1}
+GLOBAL_007: {'global_id': 'GLOBAL_007', 'label': 'person (0.88 ID: 36)', 'position': [426.6699448422361, 134.67097623569194], 'avg_colour': [52, 55, 55], 'confidence': 0.87890625, 'timestamp': 1752831295.127033, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '36')], 'num_sources': 1}
+GLOBAL_008: {'global_id': 'GLOBAL_008', 'label': 'person (0.88 ID: 4)', 'position': [386.6638079671513, 158.6135569947504], 'avg_colour': [153, 10, 28], 'confidence': 0.87890625, 'timestamp': 1752831295.127033, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '4')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.88 ID: 1)', 'position': [682.0156604371233, 217.7343340330697], 'avg_colour': [167, 74, 41], 'confidence': 0.87890625, 'timestamp': 1752831295.127033, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:56.239
+Topic: devices/mocas/rpi2
+Raw tracks: 2
+================================================================================
+Track 1: {'label': 'AGV (0.82 ID: 1)', 'confidence': 0.81640625, 'position': [684.0581746891604, 229.32482420579848], 'avg_colour': [49.66, 72.65, 137.84], 'used_pose': False, 'timestamp': 1752831293.9778585}
+Track 4: {'label': 'person (0.73 ID: 4)', 'confidence': 0.73046875, 'position': [377.82805460574605, 151.86558439249768], 'avg_colour': [27.04, 13.95, 120.27], 'used_pose': False, 'timestamp': 1752831293.9759066}
+
+FUSED TRACKS (5) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:56.239
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.88 ID: 31)', 'position': [760.349126089931, 207.32249962371267], 'avg_colour': [69, 63, 60], 'confidence': 0.87890625, 'timestamp': 1752831296.224423, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_007: {'global_id': 'GLOBAL_007', 'label': 'person (0.73 ID: 36)', 'position': [420.61372105325427, 139.76228529978832], 'avg_colour': [52, 55, 55], 'confidence': 0.73046875, 'timestamp': 1752831296.225989, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '36')], 'num_sources': 1}
+GLOBAL_009: {'global_id': 'GLOBAL_009', 'label': 'person (0.88 ID: 44)', 'position': [422.6502601749726, 129.25124682954458], 'avg_colour': [21, 214, 23], 'confidence': 0.87890625, 'timestamp': 1752831296.225989, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '44')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.82 ID: 1)', 'position': [682.1989210216991, 219.7976139805679], 'avg_colour': [137, 72, 49], 'confidence': 0.81640625, 'timestamp': 1752831296.225989, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+GLOBAL_008: {'global_id': 'GLOBAL_008', 'label': 'person (0.73 ID: 4)', 'position': [378.90735883757634, 152.6898621974553], 'avg_colour': [120, 13, 27], 'confidence': 0.73046875, 'timestamp': 1752831296.225989, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '4')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:57.145
+Topic: devices/mocas/rpi2
+Raw tracks: 2
+================================================================================
+Track 4: {'label': 'person (0.73 ID: 4)', 'confidence': 0.73046875, 'position': [390.9569804832811, 172.2951976416622], 'avg_colour': [27.64, 13.87, 123.4], 'used_pose': True, 'timestamp': 1752831294.9959414}
+Track 1: {'label': 'AGV (0.88 ID: 1)', 'confidence': 0.87890625, 'position': [684.0581746891604, 229.32482420579848], 'avg_colour': [44.56, 72.27, 149.71], 'used_pose': False, 'timestamp': 1752831294.9979293}
+
+FUSED TRACKS (4) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:57.145
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.88 ID: 31)', 'position': [759.9463884074108, 210.08490928265095], 'avg_colour': [75, 64, 61], 'confidence': 0.87890625, 'timestamp': 1752831297.126239, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_007: {'global_id': 'GLOBAL_007', 'label': 'person (0.88 ID: 36)', 'position': [408.91347712249444, 153.32579379235023], 'avg_colour': [31, 32, 33], 'confidence': 0.87890625, 'timestamp': 1752831297.126239, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '36')], 'num_sources': 1}
+GLOBAL_008: {'global_id': 'GLOBAL_008', 'label': 'person (0.73 ID: 4)', 'position': [386.95636205845426, 166.9585707110295], 'avg_colour': [123, 13, 27], 'confidence': 0.73046875, 'timestamp': 1752831297.126239, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '4')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.88 ID: 1)', 'position': [682.4960747038814, 221.96512128853698], 'avg_colour': [149, 72, 44], 'confidence': 0.87890625, 'timestamp': 1752831297.126239, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:58.142
+Topic: devices/mocas/rpi2
+Raw tracks: 2
+================================================================================
+Track 4: {'label': 'person (0.73 ID: 4)', 'confidence': 0.73046875, 'position': [374.0667668483786, 154.3062076647672], 'avg_colour': [32.1, 12.42, 157.35], 'used_pose': False, 'timestamp': 1752831295.9810758}
+Track 1: {'label': 'AGV (0.82 ID: 1)', 'confidence': 0.81640625, 'position': [683.265747179013, 227.63519080303922], 'avg_colour': [46.02, 74.58, 155.54], 'used_pose': False, 'timestamp': 1752831295.9831085}
+
+FUSED TRACKS (5) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:58.142
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.88 ID: 31)', 'position': [759.5624608659964, 212.1627677273779], 'avg_colour': [69, 63, 61], 'confidence': 0.87890625, 'timestamp': 1752831298.126833, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_007: {'global_id': 'GLOBAL_007', 'label': 'person (0.73 ID: 36)', 'position': [402.34842304364986, 162.0401994944861], 'avg_colour': [30, 31, 31], 'confidence': 0.73046875, 'timestamp': 1752831298.128338, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '36')], 'num_sources': 1}
+GLOBAL_009: {'global_id': 'GLOBAL_009', 'label': 'person (0.73 ID: 44)', 'position': [408.4400198013101, 145.21266653737877], 'avg_colour': [23, 170, 24], 'confidence': 0.73046875, 'timestamp': 1752831298.128338, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '44')], 'num_sources': 1}
+GLOBAL_008: {'global_id': 'GLOBAL_008', 'label': 'person (0.73 ID: 4)', 'position': [378.7613881497304, 160.24255478715727], 'avg_colour': [157, 12, 32], 'confidence': 0.73046875, 'timestamp': 1752831298.128338, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '4')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.82 ID: 1)', 'position': [682.4946124748171, 223.26860630234904], 'avg_colour': [155, 74, 46], 'confidence': 0.81640625, 'timestamp': 1752831298.128338, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:34:59.131
+Topic: devices/mocas/rpi2
+Raw tracks: 2
+================================================================================
+Track 4: {'label': 'person (0.73 ID: 4)', 'confidence': 0.73046875, 'position': [459.95696488671183, 153.9407428875214], 'avg_colour': [23.03, 10.27, 142.0], 'used_pose': False, 'timestamp': 1752831296.9888535}
+Track 1: {'label': 'AGV (0.82 ID: 1)', 'confidence': 0.81640625, 'position': [689.7501594905109, 231.86396407401136], 'avg_colour': [68.14, 87.44, 140.46], 'used_pose': False, 'timestamp': 1752831296.990827}
+
+FUSED TRACKS (4) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:34:59.131
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.88 ID: 31)', 'position': [759.1870108289655, 214.2567337360884], 'avg_colour': [69, 63, 60], 'confidence': 0.87890625, 'timestamp': 1752831299.116375, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_009: {'global_id': 'GLOBAL_009', 'label': 'person (0.73 ID: 44)', 'position': [406.6053918490363, 149.13560501909873], 'avg_colour': [31, 117, 32], 'confidence': 0.73046875, 'timestamp': 1752831299.116375, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '44')], 'num_sources': 1}
+GLOBAL_008: {'global_id': 'GLOBAL_008', 'label': 'person (0.73 ID: 4)', 'position': [426.1202834141454, 156.72993302088585], 'avg_colour': [142, 10, 23], 'confidence': 0.73046875, 'timestamp': 1752831299.116375, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '4')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.82 ID: 1)', 'position': [685.3319602790606, 226.28121397326092], 'avg_colour': [140, 87, 68], 'confidence': 0.81640625, 'timestamp': 1752831299.116375, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi1 at 2025-07-18 11:35:00.186
+Topic: devices/mocas/rpi1
+Raw tracks: 2
+================================================================================
+Track 31: {'label': 'AGV (0.82 ID: 31)', 'confidence': 0.81640625, 'position': [758.6410999590687, 220.976614073024], 'avg_colour': [59.7, 64.75, 79.14], 'used_pose': False, 'timestamp': 1752831297.883887}
+Track 36: {'label': 'person (0.73 ID: 36)', 'confidence': 0.73046875, 'position': [578.2735348893972, 87.40509096193227], 'avg_colour': [50.56, 35.49, 151.51], 'used_pose': False, 'timestamp': 1752831297.9913938}
+
+FUSED TRACKS (4) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:35:00.186
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.82 ID: 31)', 'position': [759.0805665494785, 216.30358034038076], 'avg_colour': [79, 64, 59], 'confidence': 0.81640625, 'timestamp': 1752831300.166213, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_007: {'global_id': 'GLOBAL_007', 'label': 'person (0.73 ID: 36)', 'position': [503.9351759745807, 121.27394241318856], 'avg_colour': [151, 35, 50], 'confidence': 0.73046875, 'timestamp': 1752831300.166213, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '36')], 'num_sources': 1}
+GLOBAL_008: {'global_id': 'GLOBAL_008', 'label': 'person (0.73 ID: 4)', 'position': [450.87245133367503, 154.8714999617319], 'avg_colour': [142, 10, 23], 'confidence': 0.73046875, 'timestamp': 1752831300.166213, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '4')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.82 ID: 1)', 'position': [687.4371647496068, 228.61202335269604], 'avg_colour': [140, 87, 68], 'confidence': 0.81640625, 'timestamp': 1752831300.166213, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:35:01.259
+Topic: devices/mocas/rpi2
+Raw tracks: 3
+================================================================================
+Track 4: {'label': 'person (0.88 ID: 4)', 'confidence': 0.87890625, 'position': [678.2683404031578, 166.52248666918558], 'avg_colour': [100.88, 111.05, 169.6], 'used_pose': False, 'timestamp': 1752831298.9718888}
+Track 1: {'label': 'AGV (0.27 ID: 1)', 'confidence': 0.26953125, 'position': [710.7140864228589, 235.1165367457842], 'avg_colour': [124.82, 132.9, 130.15], 'used_pose': False, 'timestamp': 1752831298.1245737}
+Track 6: {'label': 'AGV (0.82 ID: 6)', 'confidence': 0.81640625, 'position': [695.6637112800059, 240.32503944479583], 'avg_colour': [65.5, 128.95, 108.52], 'used_pose': False, 'timestamp': 1752831298.9738622}
+
+FUSED TRACKS (4) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:35:01.259
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.82 ID: 31)', 'position': [758.9721869704046, 217.98219946876583], 'avg_colour': [79, 64, 59], 'confidence': 0.81640625, 'timestamp': 1752831301.248339, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_007: {'global_id': 'GLOBAL_007', 'label': 'person (0.73 ID: 36)', 'position': [557.1714042389037, 99.58468414253429], 'avg_colour': [151, 35, 50], 'confidence': 0.73046875, 'timestamp': 1752831301.248339, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '36')], 'num_sources': 1}
+GLOBAL_008: {'global_id': 'GLOBAL_008', 'label': 'person (0.88 ID: 4)', 'position': [571.6440039163922, 160.0500834041371], 'avg_colour': [169, 111, 100], 'confidence': 0.87890625, 'timestamp': 1752831301.248339, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '4')], 'num_sources': 1}
+GLOBAL_002: {'global_id': 'GLOBAL_002', 'label': 'AGV (0.27 ID: 1)', 'position': [697.8043386246204, 231.6835464455481], 'avg_colour': [130, 132, 124], 'confidence': 0.26953125, 'timestamp': 1752831301.248339, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '1')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:35:02.298
+Topic: devices/mocas/rpi2
+Raw tracks: 2
+================================================================================
+Track 4: {'label': 'person (0.88 ID: 4)', 'confidence': 0.87890625, 'position': [755.3953032296916, 185.20052074330044], 'avg_colour': [190.77, 208.88, 206.07], 'used_pose': False, 'timestamp': 1752831299.9792368}
+Track 6: {'label': 'AGV (0.82 ID: 6)', 'confidence': 0.81640625, 'position': [683.265747179013, 227.63519080303922], 'avg_colour': [42.8, 74.64, 158.29], 'used_pose': False, 'timestamp': 1752831299.9814577}
+
+FUSED TRACKS (4) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:35:02.298
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.82 ID: 31)', 'position': [758.0898260077123, 220.42213679291646], 'avg_colour': [58, 52, 51], 'confidence': 0.81640625, 'timestamp': 1752831302.278479, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_007: {'global_id': 'GLOBAL_007', 'label': 'person (0.73 ID: 36)', 'position': [660.5268110744762, 95.26497299213716], 'avg_colour': [183, 8, 34], 'confidence': 0.73046875, 'timestamp': 1752831302.278788, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '36')], 'num_sources': 1}
+GLOBAL_008: {'global_id': 'GLOBAL_008', 'label': 'person (0.88 ID: 4)', 'position': [680.9584702258567, 172.02054461005827], 'avg_colour': [206, 208, 190], 'confidence': 0.87890625, 'timestamp': 1752831302.278788, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '4')], 'num_sources': 1}
+GLOBAL_010: {'global_id': 'GLOBAL_010', 'label': 'AGV (0.82 ID: 6)', 'position': [683.265747179013, 227.63519080303922], 'avg_colour': [158, 74, 42], 'confidence': 0.81640625, 'timestamp': 1752831302.278788, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '6')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:35:03.154
+Topic: devices/mocas/rpi2
+Raw tracks: 9
+================================================================================
+Track 4: {'label': 'person (0.73 ID: 4)', 'confidence': 0.73046875, 'position': [748.4323036820319, 176.9566211931875], 'avg_colour': [190.96, 209.32, 206.74], 'used_pose': False, 'timestamp': 1752831300.4652233}
+Track 6: {'label': 'AGV (0.82 ID: 6)', 'confidence': 0.81640625, 'position': [684.0581746891604, 229.32482420579848], 'avg_colour': [42.43, 72.86, 151.93], 'used_pose': False, 'timestamp': 1752831300.9971163}
+Track 7: {'label': 'person (0.73 ID: 7)', 'confidence': 0.73046875, 'position': [765.9836308733726, 184.5041128956118], 'avg_colour': [191.22, 209.72, 207.4], 'used_pose': False, 'timestamp': 1752831300.3436968}
+Track 8: {'label': 'person (0.73 ID: 8)', 'confidence': 0.73046875, 'position': [765.3601936263796, 181.2820978776544], 'avg_colour': [191.31428571428572, 209.67142857142858, 207.4857142857143], 'used_pose': False, 'timestamp': 1752831300.5334241}
+Track 10: {'label': 'person (0.73 ID: 10)', 'confidence': 0.73046875, 'position': [774.8566892845256, 179.1394394745794], 'avg_colour': [0, 0, 0], 'used_pose': False, 'timestamp': 1752831300.6386433}
+Track 11: {'label': 'person (0.50 ID: 11)', 'confidence': 0.5, 'position': [798.5356475876555, 178.90449389246777], 'avg_colour': [0, 0, 0], 'used_pose': False, 'timestamp': 1752831300.7845285}
+Track 12: {'label': 'person (0.50 ID: 12)', 'confidence': 0.5, 'position': [800.5177863750699, 176.74320197635768], 'avg_colour': [0, 0, 0], 'used_pose': False, 'timestamp': 1752831300.8542116}
+Track 13: {'label': 'person (0.62 ID: 13)', 'confidence': 0.62109375, 'position': [792.6927833668076, 166.87392330055437], 'avg_colour': [0, 0, 0], 'used_pose': False, 'timestamp': 1752831300.92759}
+Track 14: {'label': 'person (0.50 ID: 14)', 'confidence': 0.5, 'position': [803.1728682887888, 171.07224644543308], 'avg_colour': [0, 0, 0], 'used_pose': False, 'timestamp': 1752831300.9990082}
+
+FUSED TRACKS (4) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:35:03.154
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.88 ID: 31)', 'position': [757.4434487551069, 222.17600823973407], 'avg_colour': [55, 50, 48], 'confidence': 0.87890625, 'timestamp': 1752831303.140666, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_007: {'global_id': 'GLOBAL_007', 'label': 'person (0.50 ID: 36)', 'position': [781.8431705937937, 90.78012164651295], 'avg_colour': [142, 28, 38], 'confidence': 0.5, 'timestamp': 1752831303.141128, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '36')], 'num_sources': 1}
+GLOBAL_008: {'global_id': 'GLOBAL_008', 'label': 'person (0.73 ID: 4)', 'position': [745.0559764714232, 176.15137842791069], 'avg_colour': [206, 209, 190], 'confidence': 0.73046875, 'timestamp': 1752831303.141128, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '4')], 'num_sources': 1}
+GLOBAL_010: {'global_id': 'GLOBAL_010', 'label': 'AGV (0.82 ID: 6)', 'position': [683.9613781478653, 229.1184322426858], 'avg_colour': [151, 72, 42], 'confidence': 0.81640625, 'timestamp': 1752831303.141448, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '6')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:35:04.247
+Topic: devices/mocas/rpi2
+Raw tracks: 2
+================================================================================
+Track 15: {'label': 'person (0.50 ID: 15)', 'confidence': 0.5, 'position': [804.5746203232133, 175.8315037915215], 'avg_colour': [0, 0, 0], 'used_pose': False, 'timestamp': 1752831301.0011132}
+Track 6: {'label': 'AGV (0.88 ID: 6)', 'confidence': 0.87890625, 'position': [684.0581746891604, 229.32482420579848], 'avg_colour': [42.3, 72.81, 152.64], 'used_pose': False, 'timestamp': 1752831301.9891825}
+
+FUSED TRACKS (3) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:35:04.247
+GLOBAL_007: {'global_id': 'GLOBAL_007', 'label': 'person (0.73 ID: 36)', 'position': [872.9596497419129, 80.18148165759858], 'avg_colour': [152, 159, 150], 'confidence': 0.73046875, 'timestamp': 1752831304.236646, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '36')], 'num_sources': 1}
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.88 ID: 31)', 'position': [757.7865408900486, 222.19407356758245], 'avg_colour': [68, 58, 52], 'confidence': 0.87890625, 'timestamp': 1752831304.236646, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_010: {'global_id': 'GLOBAL_010', 'label': 'AGV (0.88 ID: 6)', 'position': [684.1587560752392, 229.53928630793206], 'avg_colour': [152, 72, 42], 'confidence': 0.87890625, 'timestamp': 1752831304.240933, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '6')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:35:05.241
+Topic: devices/mocas/rpi2
+Raw tracks: 1
+================================================================================
+Track 6: {'label': 'AGV (0.82 ID: 6)', 'confidence': 0.81640625, 'position': [684.0581746891604, 229.32482420579848], 'avg_colour': [47.88, 73.59, 141.22], 'used_pose': False, 'timestamp': 1752831302.9954624}
+
+FUSED TRACKS (2) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:35:05.241
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.88 ID: 31)', 'position': [758.0755170697142, 222.073899487861], 'avg_colour': [75, 61, 56], 'confidence': 0.87890625, 'timestamp': 1752831305.23185, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_010: {'global_id': 'GLOBAL_010', 'label': 'AGV (0.82 ID: 6)', 'position': [684.2062757389564, 229.64060890220878], 'avg_colour': [141, 73, 47], 'confidence': 0.81640625, 'timestamp': 1752831305.23185, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '6')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:35:06.165
+Topic: devices/mocas/rpi2
+Raw tracks: 1
+================================================================================
+Track 6: {'label': 'AGV (0.88 ID: 6)', 'confidence': 0.87890625, 'position': [682.4607550459259, 227.8107227452556], 'avg_colour': [44.47, 75.37, 154.19], 'used_pose': False, 'timestamp': 1752831303.995651}
+
+FUSED TRACKS (2) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:35:06.165
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.93 ID: 31)', 'position': [758.302381375938, 221.88710599088674], 'avg_colour': [72, 62, 58], 'confidence': 0.92578125, 'timestamp': 1752831306.161731, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_010: {'global_id': 'GLOBAL_010', 'label': 'AGV (0.88 ID: 6)', 'position': [683.2601385094126, 228.7495417746914], 'avg_colour': [154, 75, 44], 'confidence': 0.87890625, 'timestamp': 1752831306.161731, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '6')], 'num_sources': 1}
+================================================================================
+
+================================================================================
+Message from rpi2 at 2025-07-18 11:35:07.143
+Topic: devices/mocas/rpi2
+Raw tracks: 1
+================================================================================
+Track 6: {'label': 'AGV (0.88 ID: 6)', 'confidence': 0.87890625, 'position': [682.4607550459259, 227.8107227452556], 'avg_colour': [40.52, 74.21, 163.94], 'used_pose': False, 'timestamp': 1752831304.9982076}
+
+FUSED TRACKS (2) - PUBLISHED TO devices/mocas/fused_tracks:
+Published at: 2025-07-18 11:35:07.143
+GLOBAL_001: {'global_id': 'GLOBAL_001', 'label': 'AGV (0.88 ID: 31)', 'position': [758.6937084668197, 221.84566260289873], 'avg_colour': [90, 69, 64], 'confidence': 0.87890625, 'timestamp': 1752831307.137232, 'source_rpis': ['rpi1'], 'source_tracks': [('rpi1', '31')], 'num_sources': 1}
+GLOBAL_010: {'global_id': 'GLOBAL_010', 'label': 'AGV (0.88 ID: 6)', 'position': [682.7556805954464, 228.25943771490347], 'avg_colour': [163, 74, 40], 'confidence': 0.87890625, 'timestamp': 1752831307.137232, 'source_rpis': ['rpi2'], 'source_tracks': [('rpi2', '6')], 'num_sources': 1}
+================================================================================

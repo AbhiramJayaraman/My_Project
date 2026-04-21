@@ -1,0 +1,13 @@
+# Core MQTT client library for broker communication
+paho-mqtt>=1.5.0
+
+# Computer vision and image processing
+opencv-python>=4.2.0
+
+# Numerical computing and array operations
+numpy>=1.19.0
+
+# Additional dependencies that might be needed for SSL/TLS
+# (usually included with paho-mqtt but listing for completeness)
+cryptography>=2.8
+pyopenssl>=19.0.0
